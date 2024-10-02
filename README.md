@@ -1,0 +1,2 @@
+# Stanford_Encyclopedia_of_Philosophy_translation
+斯坦福哲学百科全书词条翻译
