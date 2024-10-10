@@ -5,7 +5,7 @@
 
 Sovereignty, though its meanings have varied across history, also has a core meaning, supreme authority within a territory. It is a modern notion of political authority. Historical variants can be understood along three dimensions — the holder of sovereignty, the absoluteness of sovereignty, and the internal and external dimensions of sovereignty. The state is the political institution in which sovereignty is embodied. An assemblage of states forms a sovereign states system.
 
-尽管主权的含义在历史上各不相同，但它有一个核心含义，即领土内的最高权力。它是现代政治权威的概念。主权在历史上的变体可以从三个维度来理解——主权的持有者、主权的绝对性以及主权的内部和外部维度。国家是体现主权的政治体制。国家的集合构成了主权国家体系。
+主权——尽管它的含义在历史上不断变化，但它有一个核心含义，即一块领土内的最高权力。它是现代政治权威的概念。主权在历史上的变种可以从三个维度来理解——主权的拥有者、主权的绝对性以及主权的内部和外部维度。国家是体现主权的政治体制。国家的集合构成了主权国家体系。
 
 
 
