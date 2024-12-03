@@ -187,64 +187,110 @@ It is my contention that political philosophy must get rid of the word, as well 
 
 Bodin’s and Hobbes’ mistake was in conceiving of sovereignty as authority that the people permanently transferred and alienated to an external entity, here the monarch. Rather than representing the people and being accountable to it, the sovereign became a transcendent entity, holding the supreme and inalienable right to rule over the people, independently of them, rather than representing the people, accountable to them. Like Jouvenel, Maritain rues the exaltation of the sovereign’s will such that what is just is what serves his interest. This is idolatry. Any transfer of the authority of the body politic either to some part of itself or to some outside entity — the apparatus of the state, a monarch, or even the people — is illegitimate, for the validity of a government is rooted in its relationship to natural law. Sovereignty gives rise to three dysfunctionalities. First, its external dimension renders inconceivable international law and a world state, to both of which Maritain is highly sympathetic. Second, the internal dimension of sovereignty, the absolute power of the state over the body politic, results in centralism, not pluralism. Third, the supreme power of the sovereign state is contrary to the democratic notion of accountability.
 
-博丹和霍布斯的错误在于将主权视为人民永久转移和让渡给外部实体（这里指君主）的权力。君主不是代表人民并对人民负责，而是成为一个超然的实体，拥有至高无上、不可剥夺的权利，可以统治人民，独立于人民之外，而不是代表人民并对人民负责。与儒弗内尔一样，马里坦也对君主的意志被推崇到正义就是符合其利益的地步表示遗憾。这是偶像崇拜。将政治体的权力转移给政治体自身的某个部分或某个外部实体--国家机器、君主甚至人民--都是不合法的，因为政府的有效性植根于它与自然法的关系。主权导致三个功能失调。首先，主权的外部维度使国际法和世界国家变得不可想象，而马里坦对这两者都深表同情。其次，主权的内部维度，即国家对政治体的绝对权力，导致了集权主义而非多元化。第三，主权国家的最高权力与民主的问责制概念背道而驰。
+博丹和霍布斯的错误在于将主权视为人民永久转移和让渡给外部实体（这里指君主）的权威。主权不是代表人民并对人民负责，而是成为一个超然的实体，拥有至高无上、不可剥夺的权利，可以统治人民，独立于人民之外，而不是代表人民并对人民负责。与儒弗内尔一样，马里坦也反对将主权者的意志推崇到“正义就是符合主权者的利益”的地步。这是偶像崇拜。任何将政治体的权威转移给政治体自身的某个部分或某个外部实体——国家机器、君主甚至人民——的举动都是不合法的，因为政府的有效性植根于它与自然法的关系。主权产生了三个问题。首先，主权的外部维度使国际法和世界国家变得不可想象，而马里坦对这两者都深表同情。其次，主权的内部维度，即国家超越于政治体之上的绝对权力，导致了集权主义而非多元主义。第三，主权国家的最高权力与民主的问责制概念背道而驰。
 
 As a Catholic philosopher, Maritain’s arguments run similar to Christian philosophers of early modern Europe who criticized absolute sovereignty. Witnessing the rise of the formidable entity of the state, they sought to place limits on its power and authority. They are the ancestors of those who now demand limits on the state’s authority in the name of human rights, of the right to quell genocide and disaster and deliver relief from the outside, of an international criminal court, and of a supranational entity that assumes power of governance over economic, and now, maybe, military affairs.
 
-作为天主教哲学家，马里坦的论点与近代欧洲早期批评绝对主权的基督教哲学家相似。他们目睹了国家这一强大实体的崛起，试图对其权力和权威加以限制。他们是那些现在以人权、平息种族灭绝和灾难以及从外部提供救济的权利、国际刑事法院以及对经济事务（现在可能还有军事事务）拥有管理权的超国家实体的名义要求限制国家权力的人的祖先。
+作为天主教哲学家，马里坦的论点与近代早期欧洲批评绝对主权的基督教哲学家相似。他们目睹了国家这一强大实体的崛起，试图对其权力和权威加以限制。他们是现在那些倡导以各种名义要求限制国家权力的人的先驱。这些名义包括：人权、平息种族灭绝和灾难以及从外部提供救济的权利、国际刑事法院、对经济事务（现在可能还有军事事务）拥有管理权的超国家实体。
 
 The case for circumscribing sovereignty remains strong in the Catholic and other Christian traditions. Pope Benedict XVI made a case for the Responsibility to Protect, for instance, in his 2008 speech to the United Nations. In recent years, political philosophers in the liberal tradition have argued for the circumscription of sovereignty as well. Two examples are Thomas Pogge (1992, and 2008, 174–201) and Allen Buchanan (2004). Both accord sovereignty an important but not an absolute moral status, seeking to make room for possibilities such as humanitarian intervention approved by the United Nations and the more robust development of global institutions for fighting poverty.
 
-在天主教和其他基督教传统中，限制主权的理由仍然很充分。例如，教皇本笃十六世在 2008 年向联合国发表的演讲中就提出了 “保护责任 ”的主张。近年来，自由主义传统中的政治哲学家也主张对主权进行限定。托马斯-波格（Thomas Pogge，1992 年；2008 年，174-201 页）和艾伦-布坎南（Allen Buchanan，2004 年）就是两个例子。他们都赋予主权重要但非绝对的道德地位，试图为各种可能性留出空间，如联合国批准的人道主义干预以及更有力地发展消除贫困的全球机构。
+在天主教和其他基督教传统中，限制主权的主张仍然很普遍。例如，教皇本笃十六世在2008年向联合国发表的演讲中就提出了“保护责任”的主张。近年来，自由主义传统中的政治哲学家也主张对主权进行限制。托马斯·波格（Thomas Pogge，1992年；2008年，174-201页）和艾伦·布坎南（Allen Buchanan，2004年）就是两个例子。他们都赋予主权重要但非绝对的道德地位，试图为各种可能性留出空间，例如联合国批准的人道主义干预以及更有力地发展消除贫困的全球机构。
 
 ## 参考文献
 
 Atanassow, Ewa, Thomas Bartscherer, and David A. Bateman (eds.), 2023. When the People Rule: Popular Sovereignty in Theory and Practice, New York, NY: Cambridge University Press.
-Barkin, J. Samuel, 2021. The Sovereignty Cartel, Cambridge: Cambridge University Press.
-Bartelson, J., 1995. A Genealogy of Sovereignty, Cambridge: Cambridge University Press.
-Bodin, J., 1992. On Sovereignty: Four Chapters From Six Books of the Commonwealth, Cambridge: Cambridge University Press.
-Brown, Wendy, 2010. Walled States, Waning Sovereignty, Brooklyn: Zone Books, 2010
-Buchanan, Allen, 2004. Justice, Legitimacy, and Self-Determination, Oxford: Oxford University Press.
-de Carvalho, Benjamin, Halvard Leira and John Hobson, 2011. ‘The Myths That Your Teachers Still Tell You about 1648 and 1919,’ Millennium, 39(3): 735–758.
-Ciorciari, John D., 2021. Sovereignty Sharing in Fragile States, Stanford, CA: Stanford University Press.
-Elshtain, Jean Bethke, 2008. Sovereignty: God, State, and Self, New York: Basic Books.
-Ferrara, Alessandro, 2023. Sovereignty Across Generations: Constituent Power and Political Liberalism, Oxford: Oxford University Press.
-Figgis, J. N., 1907. From Gerson to Grotius 1414–1625, 2nd edition; reprinted, Cambridge: Cambridge University Press, 1916.
-Fowler, M. R. and J. M. Bunck, 1995. Law, Power, and the Sovereign State, University Park, PA: Penn State Press.
-Grimm, Dieter, and Belinda Cooper, 2015. Sovereignty: The Origin and Future of a Political and Legal Concept, New York: Columbia University Press.
-Grotius, Hugo, 1625. The Rights of War and Peace, London: M. Walter Dunne, 1901.
-Herzog, Don, 2020. Sovereignty, RIP, New Haven: Yale University Press.
-Hinsley, F. H., 1986. Sovereignty, second edition, Cambridge: Cambridge University Press.
-Hobbes, Thomas, 1651. Leviathan, Harmondsworth: Penguin, 1968.
-International Commission on Intervention and State Sovereignty: Report, 2001. The Responsibility to Protect, International Development Research Centre Publications [Preprint available online].
-Jackson, Robert, 2007. Sovereignty: The Evolution of An Idea, Cambridge: Polity Press.
-James, Alan, 1986. Sovereign Statehood, London: Allen & Unwin.
-James, Alan, 1999. ‘The Practice of Sovereign Statehood in Contemporary International Society,’ Political Studies, 47(3): 457–473.
-de Jouvenel, Bertrand, 1957. Sovereignty: An Inquiry Into the Political Good, Chicago: University of Chicago Press.
-Kallis, Aristotle, 2018. ‘Populism, Sovereigntism, and the Unlikely Re-Emergence of the Territorial Nation-State,’ Fudan Journal of the Humanities and Social Sciences, 11(3): 285–302.
-Kalmo, Hent, and Quentin Skinner, 2014. Sovereignty in Fragments: The Past, Present, and Future of a Contested Concept, Cambridge: Cambridge University Press.
-Kantorowicz, Ernst, 1957. The King’s Two Bodies: A Study in Medieval Political Theology, Princeton: Princeton University Press.
-Keohane, Robert O. and Stanley Hoffmann, 1991. ‘Institutional Change in Europe in the 1980s,’ in The New European Community: Decisionmaking and Institutional Change, R. O. Keohane and S. Hoffmann (eds.), Boulder: Westview Press.
-Krasner, Stephen D., 1999. Sovereignty: Organized Hypocrisy, Princeton: Princeton University Press.
-Kratochwil, Friedrich, 1989. Rules, Norms, and Decisions: On the Conditions of Practical and Legal Reasoning in International Relations and Domestic Affairs, Cambridge: Cambridge University Press.
-Lee, Daniel, 2021. The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations, Oxford: Oxford University Press.
-Luther, Martin., 1523. Temporal Authority: To What Extent It Should Be Obeyed, Philadelphia: Westminster Press, 1967.
-Machiavelli, Niccolo, 1532. The Prince and the Discourses, New York: The Modern Library, 1950.
-Maland, David, 1966. Europe in the Seventeenth Century, London: Macmillan.
-Maritain, Jacques, 1951. Man and the State, Chicago: University of Chicago Press.
-Nexon, Daniel H., 2009. The Struggle for Power in Early Modern Europe: Religious Conflict, Dynastic Empires, and International Change, Princeton: Princeton University Press.
-Osiander, Andreas, 1994. The States System of Europe, 1640–1994, Oxford: Clarendon Press.
-Osiander, Andreas, 2001. ‘Sovereignty, International Relations, and the Westphalian Myth,’ International Organization, 55(2): 253–254.
-Paris, Roland, 2020. ‘The Right to Dominate: How Old Ideas About Sovereignty Pose New Challenges for World Order,’ International Organization, 74(3): 1–37.
-Pavel, Carmen, 2014. Divided Sovereignty: International Institutions and the Limits of State Authority, Oxford: Oxford University Press.
-Philpott, Daniel, 2001. Revolutions in Sovereignty: How Ideas Shaped Modern International Relations, Princeton: Princeton University Press.
-Pogge, Thomas, 1992. ‘Cosmopolitanism and Sovereignty,’ Ethics, 103: 48–75.
-Pogge, Thomas, 2008. World Poverty and Human Rights, 2nd. edition, Cambridge: Polity Press.
-Schmitt, Carl, 1922. Politische Theologie: Vier Kapitel zur Lehre von der Souveränität, München und Leipzig: Verlag von Duncker & Humblot; translated as Political Theology: Four Chapters on the Concept of Sovereignty, G. Schwab (trans.), Chicago: The University of Chicago Press, 1985.
-Spruyt, Hendrik, 1994. The Sovereign State and Its Competitors, Princeton: Princeton University Press.
-Srivastava, Swati, 2022. Hybrid Sovereignty in World Politics (Cambridge Studies in International Relations), Cambridge: Cambridge University Press.
-Teschke, Benno, 2009. The Myth of 1648: Class, Geopolitics, and the Making of Modern International Relations, London: Verso.
-Wheatley, Natasha, 2023. The Life and Death of States: Central Europe and the Transformation of Modern Sovereignty, Princeton, NJ: Princeton University Press.
-Wilks, Michael, 1964. The Problem of Sovereignty in the Later Middle Ages, Cambridge: Cambridge University Press
-Wolff, R. P., 1990. The Conflict Between Authority and Autonomy, Oxford: Basil Blackwell.
 
+Barkin, J. Samuel, 2021. The Sovereignty Cartel, Cambridge: Cambridge University Press.
+
+Bartelson, J., 1995. A Genealogy of Sovereignty, Cambridge: Cambridge University Press.
+
+Bodin, J., 1992. On Sovereignty: Four Chapters From Six Books of the Commonwealth, Cambridge: Cambridge University Press.
+
+Brown, Wendy, 2010. Walled States, Waning Sovereignty, Brooklyn: Zone Books, 2010
+
+Buchanan, Allen, 2004. Justice, Legitimacy, and Self-Determination, Oxford: Oxford University Press.
+
+de Carvalho, Benjamin, Halvard Leira and John Hobson, 2011. ‘The Myths That Your Teachers Still Tell You about 1648 and 1919,’ Millennium, 39(3): 735–758.
+
+Ciorciari, John D., 2021. Sovereignty Sharing in Fragile States, Stanford, CA: Stanford University Press.
+
+Elshtain, Jean Bethke, 2008. Sovereignty: God, State, and Self, New York: Basic Books.
+
+Ferrara, Alessandro, 2023. Sovereignty Across Generations: Constituent Power and Political Liberalism, Oxford: Oxford University Press.
+
+Figgis, J. N., 1907. From Gerson to Grotius 1414–1625, 2nd edition; reprinted, Cambridge: Cambridge University Press, 1916.
+
+Fowler, M. R. and J. M. Bunck, 1995. Law, Power, and the Sovereign State, University Park, PA: Penn State Press.
+
+Grimm, Dieter, and Belinda Cooper, 2015. Sovereignty: The Origin and Future of a Political and Legal Concept, New York: Columbia University Press.
+
+Grotius, Hugo, 1625. The Rights of War and Peace, London: M. Walter Dunne, 1901.
+
+Herzog, Don, 2020. Sovereignty, RIP, New Haven: Yale University Press.
+
+Hinsley, F. H., 1986. Sovereignty, second edition, Cambridge: Cambridge University Press.
+
+Hobbes, Thomas, 1651. Leviathan, Harmondsworth: Penguin, 1968.
+
+International Commission on Intervention and State Sovereignty: Report, 2001. The Responsibility to Protect, International Development Research Centre Publications [Preprint available online].
+
+Jackson, Robert, 2007. Sovereignty: The Evolution of An Idea, Cambridge: Polity Press.
+
+James, Alan, 1986. Sovereign Statehood, London: Allen & Unwin.
+
+James, Alan, 1999. ‘The Practice of Sovereign Statehood in Contemporary International Society,’ Political Studies, 47(3): 457–473.
+
+de Jouvenel, Bertrand, 1957. Sovereignty: An Inquiry Into the Political Good, Chicago: University of Chicago Press.
+
+Kallis, Aristotle, 2018. ‘Populism, Sovereigntism, and the Unlikely Re-Emergence of the Territorial Nation-State,’ Fudan Journal of the Humanities and Social Sciences, 11(3): 285–302.
+
+Kalmo, Hent, and Quentin Skinner, 2014. Sovereignty in Fragments: The Past, Present, and Future of a Contested Concept, Cambridge: Cambridge University Press.
+
+Kantorowicz, Ernst, 1957. The King’s Two Bodies: A Study in Medieval Political Theology, Princeton: Princeton University Press.
+
+Keohane, Robert O. and Stanley Hoffmann, 1991. ‘Institutional Change in Europe in the 1980s,’ in The New European Community: Decisionmaking and Institutional Change, R. O. Keohane and S. Hoffmann (eds.), Boulder: Westview Press.
+
+Krasner, Stephen D., 1999. Sovereignty: Organized Hypocrisy, Princeton: Princeton University Press.
+
+Kratochwil, Friedrich, 1989. Rules, Norms, and Decisions: On the Conditions of Practical and Legal Reasoning in International Relations and Domestic Affairs, Cambridge: Cambridge University Press.
+
+Lee, Daniel, 2021. The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations, Oxford: Oxford University Press.
+
+Luther, Martin., 1523. Temporal Authority: To What Extent It Should Be Obeyed, Philadelphia: Westminster Press, 1967.
+
+Machiavelli, Niccolo, 1532. The Prince and the Discourses, New York: The Modern Library, 1950.
+
+Maland, David, 1966. Europe in the Seventeenth Century, London: Macmillan.
+
+Maritain, Jacques, 1951. Man and the State, Chicago: University of Chicago Press.
+
+Nexon, Daniel H., 2009. The Struggle for Power in Early Modern Europe: Religious Conflict, Dynastic Empires, and International Change, Princeton: Princeton University Press.
+
+Osiander, Andreas, 1994. The States System of Europe, 1640–1994, Oxford: Clarendon Press.
+
+Osiander, Andreas, 2001. ‘Sovereignty, International Relations, and the Westphalian Myth,’ International Organization, 55(2): 253–254.
+
+Paris, Roland, 2020. ‘The Right to Dominate: How Old Ideas About Sovereignty Pose New Challenges for World Order,’ International Organization, 74(3): 1–37.
+
+Pavel, Carmen, 2014. Divided Sovereignty: International Institutions and the Limits of State Authority, Oxford: Oxford University Press.
+
+Philpott, Daniel, 2001. Revolutions in Sovereignty: How Ideas Shaped Modern International Relations, Princeton: Princeton University Press.
+
+Pogge, Thomas, 1992. ‘Cosmopolitanism and Sovereignty,’ Ethics, 103: 48–75.
+
+Pogge, Thomas, 2008. World Poverty and Human Rights, 2nd. edition, Cambridge: Polity Press.
+
+Schmitt, Carl, 1922. Politische Theologie: Vier Kapitel zur Lehre von der Souveränität, München und Leipzig: Verlag von Duncker & Humblot; translated as Political Theology: Four Chapters on the Concept of Sovereignty, G. Schwab (trans.), Chicago: The University of Chicago Press, 1985.
+
+Spruyt, Hendrik, 1994. The Sovereign State and Its Competitors, Princeton: Princeton University Press.
+
+Srivastava, Swati, 2022. Hybrid Sovereignty in World Politics (Cambridge Studies in International Relations), Cambridge: Cambridge University Press.
+
+Teschke, Benno, 2009. The Myth of 1648: Class, Geopolitics, and the Making of Modern International Relations, London: Verso.
+
+Wheatley, Natasha, 2023. The Life and Death of States: Central Europe and the Transformation of Modern Sovereignty, Princeton, NJ: Princeton University Press.
+
+Wilks, Michael, 1964. The Problem of Sovereignty in the Later Middle Ages, Cambridge: Cambridge University Press
+
+Wolff, R. P., 1990. The Conflict Between Authority and Autonomy, Oxford: Basil Blackwell.
