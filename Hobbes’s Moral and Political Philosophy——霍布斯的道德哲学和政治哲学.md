@@ -127,7 +127,31 @@ While Hobbes insists that we should regard our governments as having absolute au
 The last crucial aspect of Hobbes’s political philosophy is his treatment of religion. Hobbes progressively expands his discussion of Christian religion in each revision of his political philosophy, until it comes in Leviathan to comprise roughly half the book. There is no settled consensus on how Hobbes understands the significance of religion within his political theory. Some commentators have argued that Hobbes is trying to demonstrate to his readers the compatibility of his political theory with core Christian commitments, since it may seem that Christians’ religious duties forbid their affording the sort of absolute obedience to their governors which Hobbes’s theory requires of them. Others have doubted the sincerity of his professed Christianity, arguing that by the use of irony or other subtle rhetorical devices, Hobbes sought to undermine his readers’ religious beliefs. Howsoever his intentions are properly understood, Hobbes’s obvious concern with the power of religious belief is a fact that interpreters of his political philosophy must seek to explain.
 
 
-霍布斯政治哲学的最后一个至关重要的方面是他对宗教的讨论。霍布斯在每次修订其政治哲学时，都会逐步扩大对基督教的讨论，直至在《利维坦》一书中对基督教的讨论约占全书的一半篇幅。对于霍布斯如何理解宗教在其政治理论中的意义，目前尚无定论。部分评论家认为，霍布斯试图向读者证明他的政治理论与核心的基督教教义是相容的，因为表面上基督徒的宗教义务似乎禁止他们像霍布斯理论所要求的那样对统治者绝对顺服。另一些学者质疑他自称自己是基督徒的立场是否真诚，认为霍布斯通过使用反讽或其他微妙的修辞手段，试图破坏读者的宗教信仰。无论如何正确理解霍布斯的意图，他对宗教信仰力量的明显关注都是阐释其政治哲学的人必须努力解释的事实。
+霍布斯政治哲学的最后一个至关重要的方面是他对宗教的讨论。霍布斯在每次修订其政治哲学时，都会逐步扩大对基督教的讨论，直至在《利维坦》一书中对基督教的讨论约占全书的一半篇幅。对于霍布斯如何理解宗教在其政治理论中的意义，目前尚无定论。部分评论家认为，霍布斯试图向读者证明他的政治理论与核心的基督教教义是相容的，因为表面上基督徒的宗教义务似乎禁止他们像霍布斯理论所要求的那样对统治者绝对顺服。另一些学者质疑他自称自己是基督徒的立场是否真诚，并认为霍布斯通过使用反讽或其他精妙的修辞手段，试图破坏读者的宗教信仰。无论如何正确理解霍布斯的意图，他对宗教信仰力量的明显关注都是其政治哲学的阐释者必须努力解释的事实。
 
 ## 11.霍布斯论性别与种族
 
+Scholars are increasingly interested in how Hobbes thought of the status of women, and of the family. Hobbes was one of the earliest western philosophers to count women as persons when devising a social contract among persons. He insists on the equality of all people, very explicitly including women. People are equal because they are all subject to domination, and all potentially capable of dominating others. No person is so strong as to be invulnerable to attack while sleeping by the concerted efforts of others, nor is any so strong as to be assured of dominating all others.
+
+
+学者们对霍布斯如何看待妇女地位和家庭越来越感兴趣。在设计人与人之间的社会契约时，霍布斯是最早将妇女视为人的西方哲学家之一。他坚持人人平等，非常明确地将妇女包括在内。人之所以平等，是因为他们都受支配，都有支配他人的潜在能力。没有一个人强大到在他人的共同努力下睡觉时也不会受到攻击，也没有一个人强大到可以确保支配所有其他人。
+
+
+In this relevant sense, women are naturally equal to men. They are equally naturally free, meaning that their consent is required before they will be under the authority of anyone else. In this, Hobbes’s claims stand in stark contrast to many prevailing views of the time, according to which women were born inferior to and subordinate to men. Sir Robert Filmer, who later served as the target of John Locke’s First Treatise of Government, is a well-known proponent of this view, which he calls patriarchalism. Explicitly rejecting the patriarchalist view as well as Salic law, Hobbes maintains that women can be sovereigns; authority for him is “neither male nor female”. He also argues for natural maternal right: in the state of nature, dominion over children naturally belongs to the mother. He adduced the example of the Amazon warrior women as evidence.
+
+
+从这个意义上讲，女性天生与男性平等。她们同样享有天然的自由，也就是说，她们必须先征得自己的同意，才能接受他人的统治。在这一点上，霍布斯的主张与当时的许多流行观点形成了鲜明对比，根据这些观点，女性生来就比男性低等并从属于男性。后来成为约翰-洛克《政府论》（First Treatise of Government）目标的罗伯特-费尔默爵士（Sir Robert Filmer）就是这种观点的著名支持者，他将这种观点称为父权主义。霍布斯明确反对父权主义观点和萨利克法，认为妇女可以成为君主；对他来说，权力 “既非男性也非女性”。他还主张自然的母权：在自然状态下，对子女的支配权自然属于母亲。他列举了亚马逊女战士的例子作为证据。
+
+
+In seeming contrast to this egalitarian foundation, Hobbes spoke of the commonwealth in patriarchal language. In the move from the state of nature to civil society, families are described as “fathers”, “servants”, and “children”, seemingly obliterating mothers from the picture entirely. Hobbes justifies this way of talking by saying that it is fathers not mothers who have founded societies. As true as that is, it is easy to see how there is a lively debate between those who emphasize the potentially feminist or egalitarian aspects of Hobbes’s thought and those who emphasize his ultimate exclusion of women. Such debates raise the question: To what extent are the patriarchal claims Hobbes makes integral to his overall theory, if indeed they are integral at all?
+
+
+与这一平等主义基础形成鲜明对比的是，霍布斯用父权制的语言来谈论大同社会。从自然状态到公民社会，家庭被描述为 “父亲”、“仆人 ”和 “孩子”，似乎将母亲完全排除在外。霍布斯为这种说法辩解说，是父亲而不是母亲建立了社会。尽管这是事实，但不难看出，在强调霍布斯思想中潜在的女权主义或平等主义方面的人与强调他最终排斥女性的人之间，存在着激烈的争论。这种辩论提出了一个问题： 霍布斯的父权主张在多大程度上是其整体理论的组成部分？
+
+
+We find similar ambiguities and tensions in what Hobbes says about race (or what we would now call race). On the one hand, he invokes the “savages” of the Americas to illustrate the “brutish” conditions of life in the state of nature. On the other hand, when he simply denies that there are innate or immutable differences between Native Americans and Europeans. Societies which have enjoyed scientific advancement have done so, according to Hobbes, because of the existence of “leisure time,” and if that is “supposed away,” he asks rhetorically, “what do we differ from the wildest of the Indians?”
+
+
+我们在霍布斯关于种族（或我们现在所说的种族）的论述中也发现了类似的模糊性和紧张性。一方面，他引用美洲的 “野蛮人 ”来说明自然状态下 “野蛮 ”的生活条件。另一方面，他干脆否认美洲原住民与欧洲人之间存在先天的或不可改变的差异。霍布斯认为，享有科学进步的社会之所以如此，是因为存在 “闲暇时间”，如果 “闲暇时间 ”被 “假定消失”，他反问道："我们与最野蛮的印第安人有何不同？
+
+## 参考文献
