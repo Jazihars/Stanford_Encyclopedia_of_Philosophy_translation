@@ -146,12 +146,18 @@ In this relevant sense, women are naturally equal to men. They are equally natur
 In seeming contrast to this egalitarian foundation, Hobbes spoke of the commonwealth in patriarchal language. In the move from the state of nature to civil society, families are described as “fathers”, “servants”, and “children”, seemingly obliterating mothers from the picture entirely. Hobbes justifies this way of talking by saying that it is fathers not mothers who have founded societies. As true as that is, it is easy to see how there is a lively debate between those who emphasize the potentially feminist or egalitarian aspects of Hobbes’s thought and those who emphasize his ultimate exclusion of women. Such debates raise the question: To what extent are the patriarchal claims Hobbes makes integral to his overall theory, if indeed they are integral at all?
 
 
-尽管霍布斯的理论奠基于平等主义之上，但他在论述国家时却矛盾地采用了父权式话语。从自然状态到公民社会，家庭被描述为“父亲”、“仆人”和“孩子”，似乎将母亲完全排除在外。霍布斯为这种说法辩护说，是父亲而不是母亲建立了社会。尽管这是事实，但不难看出，在强调霍布斯思想中潜在的女权主义或平等主义方面的人与强调他最终排斥女性的人之间，存在着激烈的争论。这种辩论提出了一个问题： 霍布斯的父权主张在多大程度上是其整体理论的组成部分？
+尽管霍布斯的理论奠基于平等主义之上，但他在论述国家时却矛盾地采用了父权式话语。从自然状态到公民社会，家庭被描述为“父亲”、“仆人”和“孩子”，似乎将母亲完全排除在外。霍布斯为这种说法辩护说，是父亲而不是母亲建立了社会。尽管这是事实，但不难看出，在强调霍布斯思想中潜在的女权主义或平等主义方面的人与强调他最终排斥女性的人之间，存在着激烈的争论。这种辩论提出了一个问题：霍布斯的父权制主张在多大程度上是其整体理论的组成部分（如果这些主张确实是他整体理论的一部分的话）？
 
 
 We find similar ambiguities and tensions in what Hobbes says about race (or what we would now call race). On the one hand, he invokes the “savages” of the Americas to illustrate the “brutish” conditions of life in the state of nature. On the other hand, when he simply denies that there are innate or immutable differences between Native Americans and Europeans. Societies which have enjoyed scientific advancement have done so, according to Hobbes, because of the existence of “leisure time,” and if that is “supposed away,” he asks rhetorically, “what do we differ from the wildest of the Indians?”
 
 
-我们在霍布斯关于种族（或我们现在所说的种族）的论述中也发现了类似的模糊性和紧张性。一方面，他引用美洲的 “野蛮人 ”来说明自然状态下 “野蛮 ”的生活条件。另一方面，他干脆否认美洲原住民与欧洲人之间存在先天的或不可改变的差异。霍布斯认为，享有科学进步的社会之所以如此，是因为存在 “闲暇时间”，如果 “闲暇时间 ”被 “假定消失”，他反问道："我们与最野蛮的印第安人有何不同？
+我们在霍布斯关于种族的论述中也发现了类似的模糊性和张力。一方面，他援引美洲的“野蛮人”来说明自然状态下“野蛮”的生存条件。另一方面，他干脆否认美洲原住民与欧洲人之间存在先天的或不可改变的差异。霍布斯认为，一个社会之所以享有科学上的进步，是因为存在“闲暇时间”，如果假设“闲暇时间”消失殆尽，他反问道：“我们与最野蛮的印第安人有何不同？”
 
 ## 参考文献
+
+The secondary literature on Hobbes’s moral and political philosophy (not to speak of his entire body of work) is vast, appearing across many disciplines and in many languages. The following is a narrow selection of fairly recent works by philosophers, political theorists, and intellectual historians, available in English, on main areas of inquiry in Hobbes’s moral and political thought. Very helpful for further reference is the critical bibliography of Hobbes scholarship to 1990 contained in Zagorin, P., 1990, “Hobbes on Our Mind”, Journal of the History of Ideas, 51(2).
+
+有关霍布斯的道德和政治哲学（更不用说他的全部著作）的二手文献浩如烟海，横跨多个学科，由多种语言写就。以下是哲学家、政治理论家和思想史家撰写的主要内容为霍布斯道德和政治思想的少量近期英文作品。Zagorin, P., 1990, “Hobbes on Our Mind”, Journal of the History of Ideas, 51(2)所载的1990年之前霍布斯学术研究的批判性书目非常有助于进一步参考。
+
+更多参考文献请直接参阅[斯坦福哲学百科全书：霍布斯的道德哲学和政治哲学#参考文献](https://plato.stanford.edu/entries/hobbes-moral/#Bib)
