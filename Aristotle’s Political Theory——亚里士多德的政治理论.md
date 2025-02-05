@@ -3,11 +3,13 @@
 首次发布于1998年7月1日（周三）
 实质性修订于2022年7月1日（周五）
 
+原文链接参见[亚里士多德的政治理论](https://plato.stanford.edu/entries/aristotle-politics/)
+
 
 Aristotle (b. 384–d. 322 BCE), was a Greek philosopher, logician, and scientist. Along with his teacher Plato, Aristotle is generally regarded as one of the most influential ancient thinkers in a number of philosophical fields, including political theory. Aristotle was born in Stagira in northern Greece, and his father was a court physician to the king of Macedon. As a young man he studied in Plato’s Academy in Athens. After Plato’s death he left Athens to conduct philosophical and biological research in Asia Minor and Lesbos, and he was then invited by King Philip II of Macedon to tutor his young son, Alexander the Great. Soon after Alexander succeeded his father, consolidated the conquest of the Greek city-states, and launched the invasion of the Persian Empire. Aristotle returned as a resident alien to Athens, and was a close friend of Antipater, the Macedonian viceroy. At this time (335–323 BCE) he wrote, or at least worked on, some of his major treatises, including the Politics. When Alexander died suddenly, Aristotle had to flee from Athens because of his Macedonian connections, and he died soon after. Aristotle’s life seems to have influenced his political thought in various ways: his interest in biology seems to be reflected in the naturalism of his politics; his interest in comparative politics and his qualified sympathies for democracy as well as monarchy may have been encouraged by his travels and experience of diverse political systems; he reacts critically to his teacher Plato, while borrowing extensively, from Plato’s Republic, Statesman, and Laws; and his own Politics is intended to guide rulers and statesmen, reflecting the high political circles in which he moved.
 
 
-亚里士多德（生于公元前 384 年，卒于公元前 322 年）是希腊哲学家、逻辑学家和科学家。亚里士多德与他的老师柏拉图一起，被公认为在包括政治理论在内的多个哲学领域最具影响力的古代思想家之一。亚里士多德出生于希腊北部的斯塔吉拉，父亲是马其顿国王的御医。他年轻时曾在雅典柏拉图学院学习。柏拉图死后，他离开雅典，到小亚细亚和莱斯沃斯进行哲学和生物学研究，后应马其顿国王菲利普二世之邀，辅导其幼子亚历山大大帝。不久，亚历山大继承父业，巩固了对希腊城邦的征服，并发动了对波斯帝国的入侵。亚里士多德作为外国人回到雅典，成为马其顿总督安提帕特的密友。在此期间（公元前 335 年至公元前 323 年），亚里士多德撰写了他的一些重要论著，其中包括《政治学》。亚历山大突然去世后，亚里士多德因与马其顿的关系不得不逃离雅典，不久便去世了。亚里士多德的生活似乎从不同方面影响了他的政治思想：他对生物学的兴趣似乎反映在他的政治学的自然主义中；他对比较政治学的兴趣以及他对民主和君主制的同情可能是受到他的旅行和对不同政治制度的体验的鼓励；他对他的老师柏拉图做出了批判性的反应，同时广泛借鉴了柏拉图的《共和国》、《政治家》和《法律》；他自己的《政治学》旨在指导统治者和政治家，反映了他所处的高级政治圈子。
+亚里士多德（生于公元前384年，卒于公元前322年）是希腊哲学家、逻辑学家和科学家。亚里士多德与他的老师柏拉图一同被公认为在包括政治理论在内的多个哲学领域最具影响力的古代思想家之一。亚里士多德出生于希腊北部的斯塔基拉，他的父亲是马其顿国王的御医。他年轻时曾在雅典的柏拉图学园学习。柏拉图死后，他离开雅典，到小亚细亚和莱斯沃斯岛进行哲学和生物学研究，后应马其顿国王菲利普二世之邀，辅导其幼子亚历山大大帝。不久，亚历山大继承父位，巩固了对希腊城邦的征服，并发动了对波斯帝国的入侵。（2025.2.5）亚里士多德作为外籍居民回到雅典，成为马其顿总督安提帕特的密友。在此期间（公元前 335 年至公元前 323 年），亚里士多德撰写了他的一些重要论著，其中包括《政治学》。亚历山大突然去世后，亚里士多德因与马其顿的关系不得不逃离雅典，不久便去世了。亚里士多德的生活似乎从不同方面影响了他的政治思想：他对生物学的兴趣似乎反映在他的政治学的自然主义中；他对比较政治学的兴趣以及他对民主和君主制的同情可能是受到他的旅行和对不同政治制度的体验的鼓励；他对他的老师柏拉图做出了批判性的反应，同时广泛借鉴了柏拉图的《共和国》、《政治家》和《法律》；他自己的《政治学》旨在指导统治者和政治家，反映了他所处的高级政治圈子。
 
 ## 一般政治学
 
